@@ -11,3 +11,4 @@ const Announcement = ({ message, name, date }) => {
 };
 
 export default Announcement
+

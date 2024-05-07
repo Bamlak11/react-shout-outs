@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px;
+  padding: 10px;
+}
+
+input[type="text"] {
+  margin: 5px;
+}
+
+input[type="date"] {
+  margin: 5px;
+}
+
+button{
+  padding: 4px;
+  background-color: rgb(243, 243, 243);
+  border-radius: 10px;
+  border: solid 1px;
+}
